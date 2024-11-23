@@ -1,0 +1,25 @@
+{
+    "plans": [
+        {
+            "plan_name": "inaugurate",
+            "num_of_authentications": "15000",
+            "price": {
+                "IN": 1350
+            }
+        },
+        {
+            "plan_name": "grow",
+            "num_of_authentications": "40000",
+            "price": {
+                "IN": 3600
+            }
+        },
+        {
+            "plan_name": "manage",
+            "num_of_authentications": "100000",
+            "price": {
+                "IN": 7250
+            }
+        }
+    ]
+}
